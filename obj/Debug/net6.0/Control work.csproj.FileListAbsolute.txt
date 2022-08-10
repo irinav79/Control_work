@@ -1,0 +1,15 @@
+C:\IrinaGB\C#\Control work\obj\Debug\net6.0\Control work.csproj.AssemblyReference.cache
+C:\IrinaGB\C#\Control work\obj\Debug\net6.0\Control work.GeneratedMSBuildEditorConfig.editorconfig
+C:\IrinaGB\C#\Control work\obj\Debug\net6.0\Control work.AssemblyInfoInputs.cache
+C:\IrinaGB\C#\Control work\obj\Debug\net6.0\Control work.AssemblyInfo.cs
+C:\IrinaGB\C#\Control work\obj\Debug\net6.0\Control work.csproj.CoreCompileInputs.cache
+C:\IrinaGB\C#\Control work\bin\Debug\net6.0\Control work.exe
+C:\IrinaGB\C#\Control work\bin\Debug\net6.0\Control work.deps.json
+C:\IrinaGB\C#\Control work\bin\Debug\net6.0\Control work.runtimeconfig.json
+C:\IrinaGB\C#\Control work\bin\Debug\net6.0\Control work.dll
+C:\IrinaGB\C#\Control work\bin\Debug\net6.0\Control work.pdb
+C:\IrinaGB\C#\Control work\obj\Debug\net6.0\Control work.dll
+C:\IrinaGB\C#\Control work\obj\Debug\net6.0\refint\Control work.dll
+C:\IrinaGB\C#\Control work\obj\Debug\net6.0\Control work.pdb
+C:\IrinaGB\C#\Control work\obj\Debug\net6.0\Control work.genruntimeconfig.cache
+C:\IrinaGB\C#\Control work\obj\Debug\net6.0\ref\Control work.dll
